@@ -12,13 +12,13 @@ I'm a passionate Full Stack Web Developer with a knack for creating scalable web
 - **Frontend:** 
   React.js <img src="https://img.icons8.com/color/48/000000/react-native.png" height="20">
   Redux Toolkit <img src="https://img.icons8.com/color/48/000000/redux.png" height="20">
-  Tailwind CSS <img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" height="20">
+  Tailwind CSS <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="20">
 
 - **Backend:** 
   Django <img src="https://img.icons8.com/color/48/000000/django.png" height="20">
 
 - **Database:** 
-  PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgresql.png" height="20">
+  PostgreSQL <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=000000" height="20">
 
 - **DevOps:** 
   GitHub Actions <img src="https://img.icons8.com/color/48/000000/github.png" height="20">
