@@ -4,12 +4,28 @@ I'm a passionate Full Stack Web Developer with a knack for creating scalable web
 
 ### Skills and Technologies 🚀
 
-- **Languages:** JavaScript, Python, HTML/CSS
-- **Frontend:** React.js, Redux Toolkit, Tailwind CSS
-- **Backend:** Django
-- **Database:** PostgreSQL
-- **DevOps:**  GitHub Actions
-- **Tools:** Git, VS Code.
+- **Languages:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
+
+- **Frontend:** 
+  ![React.js](https://img.shields.io/badge/-React.js-blue)
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
+
+- **Backend:** 
+  ![Django](https://img.shields.io/badge/-Django-green)
+
+- **Database:** 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+
+- **DevOps:** 
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-orange)
+
+- **Tools:** 
+  ![Git](https://img.shields.io/badge/-Git-red)
+  ![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet)
 
 ### Projects 🌟
 
