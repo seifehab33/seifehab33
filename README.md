@@ -18,7 +18,7 @@ I'm a passionate Full Stack Web Developer with a knack for creating scalable web
   Django <img src="https://img.icons8.com/color/48/000000/django.png" height="20">
 
 - **Database:** 
-  PostgreSQL <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=000000" height="20">
+  PostgreSQL <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=ffffff" height="20">
 
 - **DevOps:** 
   GitHub Actions <img src="https://img.icons8.com/color/48/000000/github.png" height="20">
