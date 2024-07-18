@@ -5,27 +5,28 @@ I'm a passionate Full Stack Web Developer with a knack for creating scalable web
 ### Skills and Technologies 🚀
 
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
+  JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" height="20">
+  Python <img src="https://img.icons8.com/color/48/000000/python.png" height="20">
+  HTML/CSS <img src="https://img.icons8.com/color/48/000000/html-5.png" height="20">
 
 - **Frontend:** 
-  ![React.js](https://img.shields.io/badge/-React.js-blue)
-  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
+  React.js <img src="https://img.icons8.com/color/48/000000/react-native.png" height="20">
+  Redux Toolkit <img src="https://img.icons8.com/color/48/000000/redux.png" height="20">
+  Tailwind CSS <img src="https://img.icons8.com/color/48/000000/tailwind.png" height="20">
 
 - **Backend:** 
-  ![Django](https://img.shields.io/badge/-Django-green)
+  Django <img src="https://img.icons8.com/color/48/000000/django.png" height="20">
 
 - **Database:** 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+  PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgresql.png" height="20">
 
 - **DevOps:** 
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-orange)
+  GitHub Actions <img src="https://img.icons8.com/color/48/000000/github.png" height="20">
 
 - **Tools:** 
-  ![Git](https://img.shields.io/badge/-Git-red)
-  ![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet)
+  Git <img src="https://img.icons8.com/color/48/000000/git.png" height="20">
+  VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="20">
+
 
 ### Projects 🌟
 
